@@ -4,7 +4,7 @@
 USAGE = """
 Usage:
 
-  `Julia archive_git.jl -g GPATH -t BRANCH...`
+  Julia archive_git.jl -g GPATH -t BRANCH...
 
     - GPATH is the path of Git to work on
     - BRANCH... is a list of branches to archive separated by spaces
